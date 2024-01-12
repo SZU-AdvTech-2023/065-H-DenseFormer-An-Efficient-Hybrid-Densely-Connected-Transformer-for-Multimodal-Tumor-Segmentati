@@ -1,0 +1,8 @@
+@inproceedings{REPO065,
+    author = "Shi, Jun and Kan, Hongyu and Ruan, Shulan and Zhu, Ziqi and Zhao, Minfan and Qiao, Liang and Wang, Zhaohui and An, Hong and Xue, Xudong",
+    booktitle = "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    organization = "Springer",
+    pages = "692--702",
+    title = "{H-DenseFormer: An Efficient Hybrid Densely Connected Transformer for Multimodal Tumor Segmentation}",
+    year = "2023"
+}
